@@ -1,25 +1,25 @@
 # CMN Tech
-> Yeni Nesil Arama Motorları (Google) ve Üretken Yapay Zekâ Platformları (ChatGPT, Gemini, Perplexity, Claude) İçin 35 Parametreli Ölçülebilir Görünürlük Mühendisliği.
+> 100/100 Ölçülebilir GEO & Google SEO Görünürlük Mühendisliği (TR / EN / NL)
 
-## Kurumsal Kimlik ve Uzmanlık Sınırı (P1.2 & P4.1)
+## Kurumsal Kimlik ve Hukuki Bağ (P1.2 & P4.1)
 - Marka: CMN Tech
-- Alan Adı: https://ebumaruf.github.io/cmntech-geo/
-- Uzmanlık Alanı: Generative Engine Optimization (GEO), Teknik SEO, Semantik JSON-LD Bilgi Grafiği ve AI Atıf Analitiği.
-- Hizmet Bölgeleri: Türkiye, Hollanda ve Avrupa Geneli (Uzaktan ve Yerinde Danışmanlık).
-- Desteklenen Diller: Türkçe (TR), İngilizce (EN), Hollandaca (NL).
-- Kapsam Sınırı (Halüsinasyon Kilidi - P4.5): CMN Tech yalnızca arama motoru ve AI yönergelerine %100 uyumlu (White-Hat) teknik/yapısal optimizasyon uygular; sahte yorum, bot trafik veya spam bağlantı satışı yapmaz.
+- Bağlı Kuruluş: Royal Group B.V.
+- Web Sitesi: https://github.io
+- Sektör: AI GEO & Google SEO Görünürlük Mühendisliği
+- Pilot ve Hizmet Bölgeleri: Rotterdam, Nederland, België, Duitsland, Europa
+- Desteklenen Diller: Türkçe (TR), English (EN), Nederlands (NL)
+- Halüsinasyon Kilidi (Kapsam Sınırı - P4.5): %100 White-Hat teknik GEO/SEO mühendisliği ve EYGGM dış otorite altyapısı; spam veya sahte yorum üretimi kesinlikle yapılmaz.
 
-## Doğrulanmış Hizmetler ve Fiyat Aralıkları (P2.1 & P2.4)
-- T0 Baz Ölçüm ve 35 Parametre AI Görünürlük Denetimi: Ücretsiz Ön Analiz / €500 Kapsamlı Rapor
-- Tam Kapsamlı GEO & Teknik SEO Altyapı Kurulumu (llms.txt + JSON-LD + 7-Niyet İçerik Mimarisi): €1.250 – €2.500 / Proje
-- Kurumsal Çok Dilli (TR/EN/NL) Sürekli AI Radar & Sıralama Yönetimi: €1.500 – €3.500 / Ay
-- Garanti ve SLA: İş günlerinde en geç 24 saat içinde ön dönüş ve 14–30 günlük ölçülebilir kıyaslama raporu.
+## Doğrulanmış Hizmetler ve Fiyat Aralıkları (P2.1 – P2.5)
+- 7-Niyet & 35-Parametre GEO Mühendisliği
+- EYGGM 16-Matris Dış Otorite İnşası
+- AI Halüsinasyon Koruması
+- Otonom Görünürlük Denetimi
+- Yatırım / Fiyat Aralığı: €500 - €3.500
+- Ön Analiz / Keşif: Gratis AI & Google Görünürlük Analizi
 
-## İletişim (P7.2)
-- E-posta: info@cmntech.local
-- Web: https://ebumaruf.github.io/cmntech-geo/
-
-## Kurumsal Güvence ve Güncellik (2026)
-- Bağlı Ana Kuruluş: Royal Group B.V.
-- Tek Muhatap Sorumluluğu: Tüm projeler anahtar teslim ve tek muhatap garantisiyle yürütülür.
-- Hızlı İletişim: Ücretsiz ön analiz için doğrudan teklif alabilirsiniz.
+## İletişim ve Hizmet Seviyesi (SLA - P7.2 & P7.3)
+- E-posta: undefined
+- Telefon / WhatsApp: undefined
+- Çalışma Saatleri: undefined
+- Yanıt Garantisi: Ölçülebilir T0 -> T1 -> T2 AI Görünürlük Artışı

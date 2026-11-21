@@ -1,10 +1,12 @@
-# CMN Tech — Tam Teknik ve Metodolojik Bilgi Tabanı (7 Niyet • 35 Parametre)
+# CMN Tech — Tam Teknik ve Operasyonel Bilgi Tabanı
 
-## 1. Metodoloji Özeti
-CMN Tech, kullanıcıların yapay zekâ motorlarına sorduğu 7 temel niyet katmanını (1. Ticari Keşif, 2. Fiyat/Bütçe, 3. Teknik Problem Çözme, 4. Marka Doğrulama/Güven, 5. Yönetmelik/Şartname Uyumu, 6. Rakip Alternatifi, 7. Yerel Hızlı Erişim) 35 alt parametre üzerinden puanlar ve web sitelerine makine okunabilir sinyaller enjekte eder.
+## 1. Şirket Profili ve Uzmanlık
+CMN Tech, Royal Group B.V. bünyesinde Rotterdam başta olmak üzere Nederland, België, Duitsland, Europa genelinde AI GEO & Google SEO Görünürlük Mühendisliği alanında faaliyet gösterir.
 
-## 2. Doğrudan Soru-Cevap Bilgi Tabanı
-- Soru: GEO (Generative Engine Optimization) nedir ve klasik SEO'dan farkı nedir?
-  Yanıt: Klasik SEO web sayfalarını Google'ın 10 mavi bağlantısında üst sıraya çıkarmaya odaklanırken, GEO (Üretken Motor Optimizasyonu) sitenizin verilerini llms.txt, semantik JSON-LD ve yapısal yanıt bloklarıyla düzenleyerek ChatGPT, Gemini ve Perplexity yanıtlarında doğrudan birincil kaynak olarak önerilmesini sağlar.
-- Soru: CMN Tech sonuçları nasıl ölçer?
-  Yanıt: Her proje uygulama öncesi (T0) ve uygulama sonrası (T1: 14. gün, T2: 30. gün) olmak üzere 70 stratejik niyet sorusuyla test edilir; AI Bahsedilme Oranı (Share of Model) ve tavsiye sırası şeffaf biçimde raporlanır.
+## 2. Sık Sorulan Sorular ve Doğrulanmış Yanıtlar (RAG Bilgi Tabanı)
+- Soru: CMN Tech hangi bölgelerde hizmet veriyor?
+  Yanıt: Başta Rotterdam olmak üzere Nederland, België, Duitsland, Europa genelinde aktif hizmet vermektedir.
+- Soru: Fiyatlandırma nasıl belirlenir ve gizli maliyet var mıdır?
+  Yanıt: Hizmet aralıkları €500 - €3.500 bandındadır. Gratis AI & Google Görünürlük Analizi sonrasında sabit ve şeffaf teklif sunulur.
+- Soru: Yasal standartlara ve mevzuata uygunluk sağlanıyor mu?
+  Yanıt: Evet, tüm uygulamalar Hollanda ve AB teknik/yasal mevzuatına tam uyumlu olarak yürütülür.
