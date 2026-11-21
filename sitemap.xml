@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
-  <url><loc>https://github.io/</loc><priority>1.0</priority></url>
-  <url><loc>https://github.io/rotterdam.html</loc><priority>0.85</priority></url>
-  <url><loc>https://github.io/nederland.html</loc><priority>0.85</priority></url>
-  <url><loc>https://github.io/belgi.html</loc><priority>0.85</priority></url>
-  <url><loc>https://github.io/duitsland.html</loc><priority>0.85</priority></url>
-  <url><loc>https://github.io/europa.html</loc><priority>0.85</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/</loc><priority>1.0</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/rotterdam.html</loc><priority>0.85</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/nederland.html</loc><priority>0.85</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/belgi.html</loc><priority>0.85</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/duitsland.html</loc><priority>0.85</priority></url>
+  <url><loc>https://ebumaruf.github.io/cmntech-geo/europa.html</loc><priority>0.85</priority></url>
 </urlset>

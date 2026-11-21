@@ -15,4 +15,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://github.io/sitemap.xml
+Sitemap: https://ebumaruf.github.io/cmntech-geo/sitemap.xml

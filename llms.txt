@@ -4,7 +4,7 @@
 ## Kurumsal Kimlik ve Hukuki Bağ (P1.2 & P4.1)
 - Marka: CMN Tech
 - Bağlı Kuruluş: Royal Group B.V.
-- Web Sitesi: https://github.io
+- Web Sitesi: https://ebumaruf.github.io/cmntech-geo
 - Sektör: AI GEO & Google SEO Görünürlük Mühendisliği
 - Pilot ve Hizmet Bölgeleri: Rotterdam, Nederland, België, Duitsland, Europa
 - Desteklenen Diller: Türkçe (TR), English (EN), Nederlands (NL)
