@@ -4,6 +4,7 @@
 ## Kurumsal Kimlik ve Hukuki Bağ (P1.2 & P4.1)
 - Marka: CMN Tech
 - Bağlı Kuruluş: Royal Group B.V.
+- Wikidata Bilgi Grafiği Kimliği: Q142239875 (https://wikidata.org)
 - Web Sitesi: https://ebumaruf.github.io/cmntech-geo
 - Sektör: AI GEO & Google SEO Görünürlük Mühendisliği
 - Pilot ve Hizmet Bölgeleri: Rotterdam, Nederland, België, Duitsland, Europa
